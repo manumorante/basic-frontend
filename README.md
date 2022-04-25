@@ -2,5 +2,8 @@
 
 # Frontend Basic
 
-Curso básico de HTML, CSS y algo de JS
+Curso práctico de HTML & CSS
 
+### Colección de ejercicios
+
+https://codepen.io/collection/AVYKRj
