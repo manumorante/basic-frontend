@@ -4,4 +4,4 @@
 
 Curso práctico de HTML & CSS
 
-https://github.com/manumorante/basic-frontend/wiki/Colecci%C3%B3n-de-ejercicios
+[Colección de ejercicios](https://github.com/manumorante/basic-frontend/wiki/Colecci%C3%B3n-de-ejercicios)
