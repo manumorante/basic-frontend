@@ -1,20 +1,21 @@
 export function App() {
   return (
-    <div className="h-full bg-primary-300 text-primary-950 p-6">
-      <div class="max-w-md mx-auto center">
-        <img
-          class="mx-auto"
-          width="300px"
-          height="300px"
-          src="/amo-del-calabozo.png"
-          alt="amo-del-calabozo"
-        />
-        <div class="bg-white rounded-lg p-6">
-          <nav>
-            <a href="/mix-blend-mode/">mix-blend-mode</a>
-          </nav>
-        </div>
-      </div>
-    </div>
+    <>
+      <video
+        class="absolute inset-0 w-full h-full object-cover object-center"
+        poster="/fashion.jpg"
+        playsinline
+        autoplay
+        muted
+        loop
+      >
+        <source src="/fashion.webm" type="video/webm" />
+      </video>
+      <main class="h-screen flex items-center justify-center">
+        <h2 class="mix-blend-overlay text-[8vmin] text-white text-center mx-12 leading-tight">
+          There’s a brand new dance but I don’t know its name…
+        </h2>
+      </main>
+    </>
   )
 }
